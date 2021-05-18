@@ -569,3 +569,7 @@ mv ~/newdir ~/ski.plases
 # Библиография
 
 [https://esystem.rudn.ru/mod/resource/view.php?id=718589](https://esystem.rudn.ru/mod/resource/view.php?id=718589) - Лабораторная работа №6 - "Анализ файловой структуры UNIX. Команды для работы с файлами и каталогами"
+
+[https://habr.com/ru/post/501442/](https://habr.com/ru/post/501442/) - "Основные linux-команды для новичка"
+
+[https://losst.ru/istoriya-komand-linux](https://losst.ru/istoriya-komand-linux) - "История команд Linux"
