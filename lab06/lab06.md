@@ -576,7 +576,7 @@ mv ~/newdir ~/ski.plases
 
 [Основы Linux от основателя Gentoo. Часть 4 (1/4): Файловые системы, разделы и блочные устройства](https://habr.com/ru/post/116907/)
 
-[[UNIX][GNU/Linux] Лекция 2. Терминал и командная строка](https://www.youtube.com/watch?v=051Z3UF4LCQ)
+[[UNИX][GNU/Linux] Лекция 2. Терминал и командная строка](https://www.youtube.com/watch?v=051Z3UF4LCQ)
 
 [CТРУКТУРА ФАЙЛОВОЙ СИСТЕМЫ LINUX](https://losst.ru/ctruktura-fajlovoj-sistemy-linux)
 
