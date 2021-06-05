@@ -1,1 +1,1 @@
-https://youtu.be/goui_d04js8
+https://youtu.be/goui_d04js8 - скринкаст
