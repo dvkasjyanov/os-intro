@@ -262,3 +262,9 @@ header-includes:
 # Библиография
 
 [Лабораторная работа №13 - "Программирование в командном процессоре ОС UNIX. Расширенное программирование"](https://esystem.rudn.ru/mod/resource/view.php?id=718610)
+
+[Bash-скрипты: начало](https://habr.com/ru/company/ruvds/blog/325522/)
+
+[НАПИСАНИЕ СКРИПТОВ НА BASH](https://losst.ru/napisanie-skriptov-na-bash#Параметры_скрипта)
+
+"Advanced BashScripting Guide - Искусство программирования на языке сценариев командной оболочки" - Mendel Cooper
