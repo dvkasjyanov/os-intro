@@ -28,13 +28,13 @@ section-titles: true
 
 ![](image14/4.png)
 
-**calculate.c 1/2**
+**calculate.c** 1/2
 
 ##
 
 ![](image14/5.png)
 
-**calculate.c 2/2**
+**calculate.c** 2/2
 
 ##
 
